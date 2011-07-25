@@ -1,0 +1,6 @@
+#!/bin/sh
+SCRIPTPATH=/usr/lib/plexmediaserver
+export LD_LIBRARY_PATH="${SCRIPTPATH}"
+export PLEX_MEDIA_SERVER_MAX_PLUGIN_PROCS=6
+ulimit -s 3000
+(cd /usr/lib/plexmediaserver; ./Plex\ Media\ Server)

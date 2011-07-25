@@ -1,0 +1,13 @@
+Source: plexmediaserver
+Section: video
+Priority: extra
+Maintainer: Tobias Hieta <tobias@hieta.se>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.8.3
+Homepage: http://www.plexapp.com
+
+Package: plexmediaserver
+Architecture: i386 amd64
+Depends: avahi-daemon, avahi-utils, ia32-libs [amd64]
+Description: Plex Media Server for Linux
+  Stream media everywhere(tm)
