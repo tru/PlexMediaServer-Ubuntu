@@ -1,3 +1,2 @@
 src/* /usr/lib/plexmediaserver
 debian/start_pms /usr/sbin
-debian/plexmediaserver.conf /etc/init/
