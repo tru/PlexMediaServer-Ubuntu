@@ -1,3 +1,9 @@
+plexmediaserver (0.9.3.5ubuntu1) lucid; urgency=low
+
+  * Fixed the transcoder cache directory when using the new environment variable.
+
+ -- Elan Feingold <elan@plexapp.com>  Wed, 28 Jul 2011 17:20:00 -1000
+
 plexmediaserver (0.9.3.4ubuntu1) lucid; urgency=low
 
   * New upstream release
