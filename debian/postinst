@@ -2,7 +2,7 @@
 case "$1" in
     configure)
 	adduser --system --shell /bin/bash --home /var/lib/plexmediaserver plex
-	start plexmediaserver
+	service plexmediaserver restart
     ;;
 
     abort-upgrade|abort-remove|abort-deconfigure)

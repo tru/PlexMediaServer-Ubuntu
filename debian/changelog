@@ -1,3 +1,9 @@
+plexmediaserver (0.9.3.5ubuntu2) natty; urgency=low
+
+  * Fixed problems on systems not running upstart 
+
+ -- Tobias Hieta <tobias@hieta.se>  Fri, 29 Jul 2011 12:03:40 +0000
+
 plexmediaserver (0.9.3.5ubuntu1) lucid; urgency=low
 
   * Fixed the transcoder cache directory when using the new environment variable.
