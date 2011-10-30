@@ -1,3 +1,15 @@
+plexmediaserver (0.9.5.0-417b653) natty; urgency=low
+
+  * New upstream version 
+
+ -- Tobias Hieta <tobias@plexapp.com>  Sun, 30 Oct 2011 21:34:38 +0000
+
+plexmediaserver (0.9.4.0-dcf553b) natty; urgency=low
+
+  * New upstream verison 
+
+ -- Tobias Hieta <tobias@hieta.se>  Fri, 21 Oct 2011 07:39:36 +0000
+
 plexmediaserver (0.9.3.5ubuntu2) natty; urgency=low
 
   * Fixed problems on systems not running upstart 
