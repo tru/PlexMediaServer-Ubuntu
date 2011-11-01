@@ -1,3 +1,10 @@
+plexmediaserver (0.9.5.0-417b653ubuntu1) lucid; urgency=high
+
+  * Build on Lucid instead of Natty 
+  * Fix small cosmetic stuff in amd64 package
+
+ -- Tobias Hieta <tobias@plexapp.com>  Tue, 01 Nov 2011 08:43:41 +0000
+
 plexmediaserver (0.9.5.0-417b653) natty; urgency=low
 
   * New upstream version 
